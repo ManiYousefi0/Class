@@ -38,5 +38,7 @@ while True :
         total_2 += cost2
     if want_more == "no":
         break
+    else :
+        print ( " unavailable bread" )
 total_cost = total_1 + total_2
 print (Gender , first_name , last_name ," your total cost is " , total_cost )
